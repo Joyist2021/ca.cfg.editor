@@ -1,5 +1,7 @@
 ###unraid-cfg、go文件编辑器
 
+安装地址 https://raw.githubusercontent.com/Joyist2021/ca.cfg.editor/refs/heads/master/plugins/ca.cfg.editor-bak.plg
+
 关于报错 plugin: XML file doesn't exist or xml parse error
 把下载的ca.cfg.editor-2021.04.13-x86_64-1.txz放到U盘的 config/plugins/ca.cfg.editor/ 文件夹，
 然后再把下载的ca.cfg.editor.plg 文件放到 config/plugins/ 文件夹，
